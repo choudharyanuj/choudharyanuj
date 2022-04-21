@@ -4,7 +4,7 @@ Hi 👋 My name is Anuj Choudhary
 Full Stack Developer
 --------------------
 
-I am doing coding since last 4 years. I started my career as a Frontend developer then I learned backend and became Full Stack Developer. Now I am working at Spyne.ai as Tech Lead where I am managing team of multiple talented Engineers. Working on Scaling and Reliable system. Trying to implement new cool stuffs which can improve us to improve further on higher scale.
+I am doing coding since last 4 years. I started my career as a Frontend developer then I learned backend and became Full Stack Developer. Now I am working at Spyne.ai as Tech Lead where I am managing team of multiple talented Engineers. Working on Scaling and Reliable system. Trying to implement new cool stuffs which can help us to improve further on higher scale.
 
 * 🌍  I'm based in Gurgaon
 * ✉️  You can contact me at [anuj-choudhary@spyne.ai](mailto:anuj-choudhary@spyne.ai)

@@ -1,66 +1,62 @@
-<h1 align="center">Hi 👋, I'm Anuj Choudhary</h1>
-<h3 align="center">Code -> Eat -> Sleep -> Repeat.</h3>
+Hi 👋 My name is Anuj Choudhary
+===============================
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=choudharyanuj&label=Profile%20views&color=0e75b6&style=flat" alt="choudharyanuj" /> </p> -->
+Full Stack Developer
+--------------------
 
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=choudharyanuj" alt="choudharyanuj" /></a> </p> -->
+I am doing coding since last 4 years. I started my career as a Frontned developer then I learned backend and became Full Stack Developer. Now I am working at Spyne.ai as Tech Lead where I am managing team of multiple talented Engineers. Working on Scaling and Reliable system. Trying to implement new cool stuffs which can improve us to improve further on higher scale.
 
-<p align="left"> <a href="https://twitter.com/anuj_speak" target="blank"><img src="https://img.shields.io/twitter/follow/anuj_speak?logo=twitter&style=for-the-badge" alt="anuj_speak" /></a> </p>
+* 🌍  I'm based in Gurgaon
+* ✉️  You can contact me at [anuj-choudhary@spyne.ai](mailto:anuj-choudhary@spyne.ai)
+* 🚀  I'm currently working on [Spyne.ai](http://spyne.ai)
+* 🧠  I'm learning ML | Deep learning | Elastic Search | Kafka | Microservices | Android Development
+* 🤝  I'm open to collaborating on Image transformation | Android Development
 
-- 🔭 I’m currently working at **Spyne.ai**
+### Skills
 
-- 🌱 I’m currently learning **Microservices,Machine Learning and AI,Deep Learning**
-
-- 👨‍💻 All of my projects are available at [Portfolio](https://choudharyanuj.github.io/)
-
-- 💬 Ask me about **Python, React.Js, NodeJS, JavaScript, MonogoDB, MySQL, Web Development, GCP, AWS, Server Handling, DevOps, Software Architecture**
-
-- 📫 Mail me  <a href="mailto:anuj-choudhary@outlook.com?subject=Hey Anuj">here</a>
-
-<!-- - 📄 Know about my experiences [https://drive.google.com/file/d/1UvKzrWWTwE8a4NfZ890WwvgyUyaCDCYK/view](https://drive.google.com/file/d/1UvKzrWWTwE8a4NfZ890WwvgyUyaCDCYK/view) -->
-
-- ⚡ Fun fact **Ask me Anything,I reply only ‘=’ != ‘==’**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/anuj_speak/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="anuj_speak" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/anuj-choudhary/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/anuj-choudhary/" height="30" width="40" /></a>
-<a href="https://instagram.com/anuj_choudharyy_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="anuj_choudharyy_" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/anuj_choudhary1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="anuj_choudhary1" height="30" width="40" /></a>
+<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
+<a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
+<a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>
+<a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
+<a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="36" height="36" alt="Webpack" /></a>
+<a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/babel-colored.svg" width="36" height="36" alt="Babel" /></a>
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
+<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" /></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
+<a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a>
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p><strong>Front End</strong></p>
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-<a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-<a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> 
-<a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
 
-<p><strong>Backend</strong></p>
-<a href="https://python.org/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/919/919852.png" alt="react" width="40" height="40"/> </a> 
-<a href="https://flask.palletsprojects.com/en/2.0.x/"><img src="https://img.icons8.com/nolan/50/flask.png" alt="flask" width="40" height="40"></a>
-<a href="https://www.djangoproject.com/" target="_blank"> <img src="https://img.icons8.com/external-tal-revivo-green-tal-revivo/36/000000/external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-green-tal-revivo.png" alt="django" width="40" height="40"/> </a> 
-<a href="https://nodejs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="nodjs" width="40" height="40"/> </a> 
+### Socials
 
-<p><strong>Database</strong></p>
-<a href="https://dev.mysql.com/doc/" target="_blank"> <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/000000/external-mysql-an-open-source-relational-database-management-system-logo-color-tal-revivo.png" alt="react" width="40" height="40"/> </a> 
-<a href="https://www.mongodb.com/" target="_blank"> <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-mongodb-a-cross-platform-document-oriented-database-program-logo-shadow-tal-revivo.png" alt="react" width="40" height="40"/> </a> 
+<p align="left"> <a href="https://www.github.com/choudharyanuj" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/anuj-choudhary" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/anuj_speak" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
-<p><strong>Tools</strong></p>
-<a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"   width="40" height="40"/> </a> 
-<a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
+### Badges
 
+<b>My GitHub Stats</b>
 
+<a href="http://www.github.com/choudharyanuj"><img src="https://github-readme-stats.vercel.app/api?username=choudharyanuj&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="choudharyanuj's GitHub stats" /></a>
 
+<a href="http://www.github.com/choudharyanuj"><img src="https://github-readme-streak-stats.herokuapp.com/?user=choudharyanuj&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=choudharyanuj&show_icons=true&locale=en&layout=compact" alt="choudharyanuj" /></p>
+<a href="http://www.github.com/choudharyanuj"><img src="https://activity-graph.herokuapp.com/graph?username=choudharyanuj&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=choudharyanuj&show_icons=true&locale=en" alt="choudharyanuj" /></p>
+<a href="https://github.com/choudharyanuj" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=choudharyanuj&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=choudharyanuj&" alt="choudharyanuj" /></p>
+<b>Top Repositories</b>
+
+<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />

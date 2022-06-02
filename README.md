@@ -8,7 +8,7 @@ I am doing coding since last 4 years. I started my career as a Frontend develope
 
 * 🌍  I'm based in Gurgaon
 * ✉️  You can contact me at [anuj-choudhary@outlook.com](mailto:anuj-choudhary@outlook.com)
-* 🚀  I'm currently working on [Spyne.ai](http://spyne.ai)
+* 🚀  I'm currently working at [Spyne.ai](http://spyne.ai)
 * 🧠  I'm learning ML | Deep learning | Elastic Search | Kafka | Microservices | Android Development
 * 🤝  I'm open to collaborating on Image transformation | Android Development
 

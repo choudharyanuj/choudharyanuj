@@ -7,7 +7,7 @@ Full Stack Developer
 I am doing coding since last 4 years. I started my career as a Frontend developer then I learned backend and became Full Stack Developer. Now I am working at Spyne.ai as Team Lead where I am managing team of multiple talented Engineers. Working on Scaling and Reliable system. Trying to implement new cool stuffs which can help us to improve further on higher scale.
 
 * 🌍  I'm based in Gurgaon
-* ✉️  You can contact me at [anuj-choudhary@spyne.ai](mailto:anuj-choudhary@spyne.ai)
+* ✉️  You can contact me at [anuj-choudhary@outlook.com](mailto:anuj-choudhary@outlook.com)
 * 🚀  I'm currently working on [Spyne.ai](http://spyne.ai)
 * 🧠  I'm learning ML | Deep learning | Elastic Search | Kafka | Microservices | Android Development
 * 🤝  I'm open to collaborating on Image transformation | Android Development
